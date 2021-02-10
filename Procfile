@@ -1,2 +1,2 @@
-web: gunicorn nyc_accessible_restaurant_advisor.wsgi
+web gunicorn nyc_accessible_restaurant_advisor.wsgi
 
